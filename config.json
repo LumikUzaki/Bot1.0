@@ -4,6 +4,6 @@
 	"name": "Alexmanange",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register batato20123",
-	"login-cmd":"/login batato20123"
+	"register-cmd":"/register (batato20123)",
+	"login-cmd":"/login (batato20123)"
 }
